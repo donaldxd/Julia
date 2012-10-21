@@ -1,0 +1,11 @@
+{
+  "name": "Julia",
+  "subdomain": "Julia",
+  "scripts": {
+    "start": "Julia.js"
+  },
+  "version": "0.0.1-7",
+  "engines": {
+    "node": "0.6.x"
+  }
+}
